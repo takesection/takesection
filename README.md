@@ -4,7 +4,7 @@ I like Code.
 
 I'm Shigeki Shoji.
 
-「InfoQ](https://www.infoq.com/) Profile:
+[InfoQ](https://www.infoq.com/) Profile:
 - [Shigeki Shoji](https://www.infoq.com/jp/profile/Shoji-Shigeki/)
 - [Shigeki Shoji](https://www.infoq.com/jp/profile/-Shoji-Shigeki/)
 
