@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I like Code.
-
 I'm Shigeki Shoji.
+
+I like code.
 
 [InfoQ](https://www.infoq.com/) Profile:
 - [Shigeki Shoji](https://www.infoq.com/jp/profile/Shoji-Shigeki/)
