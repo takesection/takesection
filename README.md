@@ -1,24 +1,8 @@
-### Hi there 👋
+Shigeki Shoji
 
-I'm Shigeki Shoji.
+consultant, software developer, solutions architect, speaker, translator, and more.
 
-I like code.
-
-[InfoQ](https://www.infoq.com/) Profile:
-- [Shigeki Shoji](https://www.infoq.com/jp/profile/Shoji-Shigeki/)
-- [Shigeki Shoji](https://www.infoq.com/jp/profile/-Shoji-Shigeki/)
-
-<!--
-**takesection/takesection** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* InfoQ: https://www.infoq.com/profile/Shoji-Shigeki/, https://www.infoq.com/profile/-Shoji-Shigeki/
+* Linkedin: https://www.linkedin.com/in/takesection/
+* Twitter: https://twitter.com/takesection
+* Hatena: https://s-edword.hatenablog.com/
