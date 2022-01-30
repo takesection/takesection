@@ -5,4 +5,5 @@ consultant, software developer, solutions architect, speaker, translator, and mo
 * InfoQ: https://www.infoq.com/profile/Shoji-Shigeki/, https://www.infoq.com/profile/-Shoji-Shigeki/
 * Linkedin: https://www.linkedin.com/in/takesection/
 * Twitter: https://twitter.com/takesection
+* Medium: https://medium.com/@shigeki-shoji
 * Hatena: https://s-edword.hatenablog.com/
