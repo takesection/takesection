@@ -6,6 +6,8 @@ Cloud Consultant | Cloud Solutions Architect | Translator | Speaker | 2X AWS Cer
 
 ![2x AWS Certified](2x-aws-certified.png)
 
+![Storage Core](storage-core.png)
+
 * Linkedin: https://www.linkedin.com/in/takesection/
 * Twitter: https://twitter.com/takesection
 * InfoQ: https://www.infoq.com/profile/Shoji-Shigeki/, https://www.infoq.com/profile/-Shoji-Shigeki/
