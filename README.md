@@ -1,4 +1,4 @@
-Shigeki Shoji
+Hi there, I'm Shigeki Shoji.
 
 Cloud Consultant | Cloud Solutions Architect | Translator | Speaker | 2X AWS Certified
 
