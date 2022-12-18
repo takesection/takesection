@@ -11,3 +11,4 @@ Cloud Consultant | Cloud Solutions Architect | Translator | Speaker | 3X AWS Cer
 * InfoQ: https://www.infoq.com/profile/Shoji-Shigeki/, https://www.infoq.com/profile/-Shoji-Shigeki/
 * Medium: https://medium.com/@shigeki-shoji
 * Hatena: https://s-edword.hatenablog.com/
+
