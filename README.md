@@ -4,7 +4,7 @@ Cloud Consultant | Cloud Solutions Architect | Translator | Speaker | 4X AWS Cer
 
 [Credly](https://www.credly.com/users/username.835c802c/badges):
 
-![3x AWS Certified](badges.png)
+![4x AWS Certified](badges.png)
 
 * Linkedin: https://www.linkedin.com/in/takesection/
 * Twitter: https://twitter.com/takesection
