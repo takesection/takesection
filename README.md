@@ -4,7 +4,7 @@ Cloud Consultant | Cloud Solutions Architect | Translator | Speaker | 4X AWS Cer
 
 [Credly](https://www.credly.com/users/username.835c802c/badges):
 
-![4x AWS Certified](badges.png)
+![5x AWS Certified](badges.png)
 
 ![AWS Learning](learning.png)
 
