@@ -1,10 +1,10 @@
 Hi there, I'm Shigeki Shoji.
 
-Cloud Consultant | Cloud Solutions Architect | Translator | Speaker | 6X AWS Certified
+Cloud Consultant | Cloud Solutions Architect | Translator | Speaker | 7X AWS Certified
 
 [Credly](https://www.credly.com/users/username.835c802c/badges):
 
-![6x AWS Certified](badges.png)
+![AWS Certified](badges.png)
 
 ![AWS Learning](learning.png)
 
