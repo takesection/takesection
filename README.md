@@ -8,6 +8,8 @@ Cloud Consultant | Cloud Solutions Architect | Translator | Speaker | 7X AWS Cer
 
 ![AWS Learning](learning.png)
 
+![Professional Scrum](professiona-scrum.png)
+
 * Linkedin: https://www.linkedin.com/in/takesection/
 * Twitter: https://twitter.com/takesection
 * InfoQ: https://www.infoq.com/profile/Shoji-Shigeki/, https://www.infoq.com/profile/-Shoji-Shigeki/
