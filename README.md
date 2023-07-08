@@ -1,6 +1,6 @@
 Hi there, I'm Shigeki Shoji.
 
-Cloud Consultant | Cloud Solutions Architect | Translator | Speaker | 10X AWS Certified
+Cloud Consultant | Cloud Solutions Architect | Translator | Speaker | 11X AWS Certified
 
 <a href="https://aws.amazon.com/jp/blogs/psa/2023-japan-aws-top-engineers/"><img src="https://github.com/edward-mamezou/edward-mamezou/raw/main/2023JapanAWSTopEngineers-logo_light.png" width="360px"></a>
 
