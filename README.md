@@ -1,3 +1,5 @@
+![](header.png)
+
 Hi there, I'm Shigeki Shoji.
 
 Cloud Consultant | Cloud Solutions Architect | Translator | Speaker | 12X AWS Certified
