@@ -2,15 +2,9 @@
 
 Hi there, I'm Shigeki Shoji.
 
-Instructional Designer | AWS Authorized Instructor | 14X AWS Certified
-
-<a href="https://aws.amazon.com/jp/blogs/psa/2023-japan-aws-top-engineers/"><img src="https://github.com/edward-mamezou/edward-mamezou/raw/main/2023JapanAWSTopEngineers-logo_light.png" width="360px"></a>
+Instructional Designer | AWS Authorized Instructor | 15x AWS Certified
 
 [Credly](https://www.credly.com/users/username.835c802c/badges):
-
-![AWS Certified](badges.png)
-
-![AWS Learning](learning.png)
 
 ![Professional Scrum](professional-scrum.png)
 
