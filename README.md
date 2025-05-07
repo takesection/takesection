@@ -23,9 +23,7 @@ Instructional Designer | Agile Coach | AWS Authorized Instructor
 
 ### [Scrum.org](https://www.scrum.org/)
 
-<img src="professional-scrum-product-owner-i-pspo-i.png" width="60px">
-<img src="professional-scrum-master-i-psm-i.png" width="60px">
-<img src="professional-scrum-developer-i-psd-i.png" width="60px">
+<img src="professional-scrum-product-owner-i-pspo-i.png" width="60px"> <img src="professional-scrum-master-i-psm-i.png" width="60px"> <img src="professional-scrum-developer-i-psd-i.png" width="60px">
 
 ## SNS and Blog
 
