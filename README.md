@@ -2,7 +2,7 @@
 
 Hi there, I'm Shigeki Shoji.
 
-Instructional Designer | AWS Authorized Instructor | 15x AWS Certified
+Instructional Designer | Agile Coach | AWS Authorized Instructor | 15x AWS Certified
 
 ## Badges
 
