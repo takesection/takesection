@@ -8,6 +8,7 @@ Instructional Designer | Agile Coach | AWS Authorized Instructor | 15x AWS Certi
 
 - [Credly](https://www.credly.com/users/username.835c802c/badges)
 - [OpenBadges](https://www.openbadge-global.com/ns/portal/openbadge/public/assertions/user/TTZpNlI3R2FzaW9GZ0JFd1FodnZUdz09)
+- <img src="sa-csm-600.png" width="60px">
 
 ## SNS and Blog
 
