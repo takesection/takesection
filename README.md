@@ -17,11 +17,11 @@ Instructional Designer | Agile Coach | AWS Authorized Instructor
 - [Azure AI Engineer Associate](https://learn.microsoft.com/api/credentials/share/ja-jp/ShigekiShoji-0896/7B152AA68B21D341)
 - [Azure AI Fundamentals](https://learn.microsoft.com/api/credentials/share/ja-jp/ShigekiShoji-0896/FEB3566E4ED5C37F)
 
-### [ScrumAlliance](https://www.scrumalliance.org/)
+### [ScrumAlliance](https://www.scrumalliance.org/members/1669015)
 
 <img src="sa-csm-600.png" width="60px">
 
-### [Scrum.org](https://www.scrum.org/)
+### [Scrum.org](https://www.scrum.org/user/1214997)
 
 <img src="professional-scrum-product-owner-i-pspo-i.png" width="60px"> <img src="professional-scrum-master-i-psm-i.png" width="60px"> <img src="professional-scrum-developer-i-psd-i.png" width="60px">
 
