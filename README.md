@@ -27,8 +27,9 @@ Instructional Designer | Agile Coach | AWS Authorized Instructor
 
 ## SNS and Blog
 
-- Linkedin: https://www.linkedin.com/in/takesection/
 - X: https://x.com/takesection
+- Linkedin: https://www.linkedin.com/in/takesection/
+- Facebook: https://www.facebook.com/shigekishoji
 - Hatena: https://s-edword.hatenablog.com/
 
 ## Badges
