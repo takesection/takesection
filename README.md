@@ -8,9 +8,7 @@ Instructional Designer | Agile Coach | AWS Authorized Instructor
 
 - eLP Basic (DLC-certified e-Learning Professional)
 
-### [AWS (15x AWS Certified)](https://aws.amazon.com/certification/)
-
-<img src="badges.png" width="640px">
+### [AWS (14x AWS Certified)](https://aws.amazon.com/certification/)
 
 ### [Microsoft Credentials](https://learn.microsoft.com/en-us/credentials/)
 
