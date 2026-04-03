@@ -2,7 +2,7 @@
 
 Hi there, I'm Shigeki Shoji.
 
-Instructional Designer | Agile Coach | AWS Authorized Instructor
+Instructional Designer (IDer) | Agile Coach | Financial Planner
 
 ### [DLC](https://www.elc.or.jp/)
 
