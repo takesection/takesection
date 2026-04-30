@@ -8,7 +8,7 @@ Instructional Designer (IDer) | Agile Coach | Financial Planner
 
 - eLP Basic (DLC-certified e-Learning Professional)
 
-### [AWS (14x AWS Certified)](https://aws.amazon.com/certification/)
+### [AWS (12x AWS Certified)](https://aws.amazon.com/certification/)
 
 ### [Microsoft Credentials](https://learn.microsoft.com/en-us/credentials/)
 
