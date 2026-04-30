@@ -7,6 +7,7 @@ Instructional Designer (IDer) | Agile Coach | Financial Planner
 ### [DLC](https://www.elc.or.jp/)
 
 - eLP Basic (DLC-certified e-Learning Professional)
+- [eLP SCORM Engineer (DLC-certified e-Learning Professional)](https://www.elc.or.jp/edtech/scorm/list/)
 
 ### [AWS (12x AWS Certified)](https://aws.amazon.com/certification/)
 
