@@ -16,6 +16,7 @@ Instructional Designer (IDer) | Agile Coach | Financial Planner
 - [Azure Fundamentals](https://learn.microsoft.com/api/credentials/share/ja-jp/ShigekiShoji-0896/2A1DA6D03A81E1A7)
 - [Azure AI Fundamentals](https://learn.microsoft.com/api/credentials/share/ja-jp/ShigekiShoji-0896/FEB3566E4ED5C37F)
 - [Azure AI Engineer Associate](https://learn.microsoft.com/api/credentials/share/ja-jp/ShigekiShoji-0896/7B152AA68B21D341)
+- [GitHub Actions](https://learn.microsoft.com/api/credentials/share/ja-jp/ShigekiShoji-0896/DA059EDFC4E9DA77?sharingId=DCBF55CF992ED66D)
 - [GitHub Copilot](https://learn.microsoft.com/api/credentials/share/ja-jp/ShigekiShoji-0896/9F1B2B6AB7F59482?sharingId=DCBF55CF992ED66D)
 
 ### [ScrumAlliance](https://www.scrumalliance.org/members/1669015)
