@@ -1,6 +1,6 @@
 ![](header.png)
 
-Hi there, I'm Shigeki Shoji (ORCID 0009−0003−0447−5011).
+Hi there, I'm Shigeki Shoji (ORCID [0009−0003−0447−5011](https://orcid.org/0009-0003-0447-5011)).
 
 Instructional Designer (IDer) | Agile Coach | Financial Planner
 
