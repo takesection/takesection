@@ -1,6 +1,6 @@
 ![](header.png)
 
-Hi there, I'm Shigeki Shoji.
+Hi there, I'm Shigeki Shoji (ORCID 0009−0003−0447−5011).
 
 Instructional Designer (IDer) | Agile Coach | Financial Planner
 
@@ -9,16 +9,6 @@ Instructional Designer (IDer) | Agile Coach | Financial Planner
 - eLP Basic (DLC-certified e-Learning Professional)
 - [eLP SCORM Engineer (DLC-certified e-Learning Professional)](https://www.elc.or.jp/edtech/scorm/list/)
 
-### [AWS (12x AWS Certified)](https://aws.amazon.com/certification/)
-
-### [Microsoft Credentials](https://learn.microsoft.com/en-us/credentials/)
-
-- [Azure Fundamentals](https://learn.microsoft.com/api/credentials/share/ja-jp/ShigekiShoji-0896/2A1DA6D03A81E1A7)
-- [Azure AI Fundamentals](https://learn.microsoft.com/api/credentials/share/ja-jp/ShigekiShoji-0896/FEB3566E4ED5C37F)
-- [Azure AI Engineer Associate](https://learn.microsoft.com/api/credentials/share/ja-jp/ShigekiShoji-0896/7B152AA68B21D341)
-- [GitHub Actions](https://learn.microsoft.com/api/credentials/share/ja-jp/ShigekiShoji-0896/DA059EDFC4E9DA77?sharingId=DCBF55CF992ED66D)
-- [GitHub Copilot](https://learn.microsoft.com/api/credentials/share/ja-jp/ShigekiShoji-0896/9F1B2B6AB7F59482?sharingId=DCBF55CF992ED66D)
-
 ### [ScrumAlliance](https://www.scrumalliance.org/members/1669015)
 
 <img src="sa-csm-600.png" width="60px">
@@ -26,15 +16,3 @@ Instructional Designer (IDer) | Agile Coach | Financial Planner
 ### [Scrum.org](https://www.scrum.org/user/1214997)
 
 <img src="professional-scrum-product-owner-i-pspo-i.png" width="60px"> <img src="professional-scrum-master-i-psm-i.png" width="60px"> <img src="professional-scrum-developer-i-psd-i.png" width="60px">
-
-## SNS and Blog
-
-- X: https://x.com/takesection
-- Linkedin: https://www.linkedin.com/in/takesection/
-- Facebook: https://www.facebook.com/shigekishoji
-- Hatena: https://s-edword.hatenablog.com/
-
-## Badges
-
-- [Credly](https://www.credly.com/users/username.835c802c/badges)
-- [OpenBadges](https://www.openbadge-global.com/ns/portal/openbadge/public/assertions/user/TTZpNlI3R2FzaW9GZ0JFd1FodnZUdz09)
